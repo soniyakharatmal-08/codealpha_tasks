@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Language Translation Tool
 
 A beginner-friendly full-stack web app for translating text with a React frontend and an Express backend. The backend uses the free MyMemory Translation API by default, so no paid cloud account or API key is required for normal local use.
@@ -187,3 +188,6 @@ The tests cover health checks, successful translation flow with a mocked provide
 - Add Google Translate or Microsoft Translator provider support
 - Add automatic language detection display
 - Add more languages
+=======
+# codealpha_tasks
+>>>>>>> 234b692b3e8cee03309b4564bf1dddbb51b707c8
